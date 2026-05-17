@@ -1,6 +1,6 @@
-Category,Component,Description,Cost,Details
+Category,Component,Description,Cost,Details,Link
 Brain,Raspberry Pi Pico 2,"RP2350, 520KB SRAM, 4MB flash",$5 ,"Pre-certified, antenna on-board, USB built in"
-Display,2.8 IPS TFT,"320x240, SPI, ILI9341 driver",$14 ,Adafruit 1770 or equivalent
+Display,2.8 IPS TFT,"320x240, SPI, ILI9341 driver",$14 ,Adafruit 1770 or equivalent, https://robu.in/product/2-8-inch-lcm-tft-color-screen-ili9341v-with-spi-serial-port/
 Power,TP4056,"LiPo charger IC with protection, USB-C in",$1 ,TP4056 module or bare IC
 Power,MAX17048,"1-cell fuel gauge, I2C battery %",$2 ,MAX17048G+T
 Power,XC6220 LDO,"3.3V, 700mA, ultra-low dropout",$1 ,XC6220A331MR-G
@@ -12,7 +12,7 @@ Audio,PCM5102A,"I2S DAC, 112dB SNR",$3 ,PCM5102APWR
 Audio,TPA2012D2,"Class-D stereo amp, 2.5W/ch",$4 ,TPA2012D2RTJR
 Audio,Speaker,"28mm round, 8Ω, 0.5W, 4mm depth",$3 ,Mono speaker
 Audio,3.5mm headphone jack,"PJ-320A, SMD",$1 ,PJ-320A
-Storage,MicroSD push-push slot,Molex 104031-0811,$2 ,SPI to RP2350
+Storage,MicroSD push-push slot,Molex 104031-0811,$2 ,SPI to RP2350,https://www.ktron.in/product/micro-sd-card-holder-smd-push-type/
 Fabrication,PCB,"2-layer, ENIG finish, 130×70mm, ×5 boards",$18 ,JLCPCB
 Fabrication,Shell,"PETG, 0.15mm layer, 40% infill, ×1 set",$8 ,PETG material
 Fabrication,Brass M2 inserts + screws,×8 inserts + M2 screws,$3 ,Amazon / Aliexpress
