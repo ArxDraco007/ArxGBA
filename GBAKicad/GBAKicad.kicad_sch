@@ -5929,7 +5929,7 @@
 		(uuid "806e6e55-0afb-4519-aef9-bdef5043c55a")
 	)
 	(rectangle
-		(start 151.13 190.5)
+		(start 130.175 190.5)
 		(end 264.16 248.92)
 		(stroke
 			(width 0)
@@ -6133,6 +6133,10 @@
 		(at 215.9 68.58)
 		(uuid "a7a85a7e-3cd6-45f9-9340-32028ef36f79")
 	)
+	(no_connect
+		(at 237.49 240.03)
+		(uuid "bd94475e-0889-4066-aec7-11cc9efc580b")
+	)
 	(wire
 		(pts
 			(xy 269.24 140.97) (xy 271.78 140.97)
@@ -6255,6 +6259,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 217.17) (xy 219.71 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3279c324-1523-44c7-9ae0-cbc3eaa68b1c")
+	)
+	(wire
+		(pts
 			(xy 269.24 148.59) (xy 271.78 148.59)
 		)
 		(stroke
@@ -6262,6 +6276,16 @@
 			(type default)
 		)
 		(uuid "3640b2a4-22fa-45b5-982e-c1c8b60b848a")
+	)
+	(wire
+		(pts
+			(xy 187.96 214.63) (xy 190.5 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36f5e286-73fd-4ed8-af77-73dbe81e5833")
 	)
 	(wire
 		(pts
@@ -6392,6 +6416,16 @@
 			(type default)
 		)
 		(uuid "5872caf6-6be7-4515-b554-48b9915b3fbb")
+	)
+	(wire
+		(pts
+			(xy 187.96 217.17) (xy 190.5 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bf3427c-cf92-4189-81d4-cfa4d2236f55")
 	)
 	(wire
 		(pts
@@ -6615,6 +6649,26 @@
 	)
 	(wire
 		(pts
+			(xy 229.87 217.17) (xy 228.6 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e9b4be0-a4a0-4676-aeb7-db4852e6e2c3")
+	)
+	(wire
+		(pts
+			(xy 172.72 242.57) (xy 172.72 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f758dad-2799-4ef0-8f58-7185c8148275")
+	)
+	(wire
+		(pts
 			(xy 317.5 140.97) (xy 318.77 140.97)
 		)
 		(stroke
@@ -6645,6 +6699,16 @@
 	)
 	(wire
 		(pts
+			(xy 198.12 214.63) (xy 199.39 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0b2762e-9aa4-4e61-bd49-ebc142d2a5b5")
+	)
+	(wire
+		(pts
 			(xy 109.22 171.45) (xy 109.22 172.72)
 		)
 		(stroke
@@ -6652,6 +6716,16 @@
 			(type default)
 		)
 		(uuid "a196d25c-770a-448d-ac8b-0f25f014d9eb")
+	)
+	(wire
+		(pts
+			(xy 198.12 217.17) (xy 199.39 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1c51a8b-e9af-421f-a684-d9a981a6120f")
 	)
 	(wire
 		(pts
@@ -6702,6 +6776,26 @@
 			(type default)
 		)
 		(uuid "ae9638f0-a20e-4bd4-8f8e-2be24850f02d")
+	)
+	(wire
+		(pts
+			(xy 209.55 228.6) (xy 209.55 227.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aee8f5df-dd39-45b6-bd4e-252bbbe06c9e")
+	)
+	(wire
+		(pts
+			(xy 220.98 214.63) (xy 219.71 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af3dd43c-7159-4e12-bae4-32d1d30ac8e1")
 	)
 	(wire
 		(pts
@@ -6812,6 +6906,16 @@
 			(type default)
 		)
 		(uuid "ccc8cd48-9777-4ac6-b4ba-f40e5dc211e7")
+	)
+	(wire
+		(pts
+			(xy 207.01 228.6) (xy 207.01 227.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cdadd7a5-c9f9-4e95-8128-34bd806830c7")
 	)
 	(wire
 		(pts
@@ -6975,6 +7079,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 214.63) (xy 143.51 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb6f3c3e-68d8-4243-b780-2282f234add8")
+	)
+	(wire
+		(pts
 			(xy 85.09 171.45) (xy 85.09 172.72)
 		)
 		(stroke
@@ -6982,6 +7096,46 @@
 			(type default)
 		)
 		(uuid "ec190f64-3ac4-49df-8772-6e54fe87f92e")
+	)
+	(wire
+		(pts
+			(xy 156.21 223.52) (xy 156.21 222.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "edba05ed-1327-486c-b1c1-4306f74040b9")
+	)
+	(wire
+		(pts
+			(xy 231.14 214.63) (xy 228.6 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "edec6dd4-4493-49d7-a609-83b9f6d47e03")
+	)
+	(wire
+		(pts
+			(xy 168.91 209.55) (xy 170.18 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee30d1af-9706-4fb2-b770-048ae8b8a08c")
+	)
+	(wire
+		(pts
+			(xy 196.85 209.55) (xy 199.39 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef93352e-75c8-430c-8916-cbbd5b24f984")
 	)
 	(wire
 		(pts
@@ -7675,6 +7829,30 @@
 			)
 		)
 	)
+	(global_label "VBAT"
+		(shape input)
+		(at 143.51 209.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7a078370-664b-4b75-8f8d-825fd967b1a4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 136.11 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "BTN_START"
 		(shape input)
 		(at 106.68 160.02 180)
@@ -7987,6 +8165,30 @@
 			)
 		)
 	)
+	(global_label "VBAT"
+		(shape input)
+		(at 237.49 234.95 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b0fcec0c-ef15-401d-8085-2988cf043b03")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 244.89 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "LCD_CS"
 		(shape input)
 		(at 236.22 118.11 0)
@@ -8000,6 +8202,30 @@
 		(uuid "b16be202-856a-41e0-8341-0a569bb489c6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 246.2204 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "VBAT"
+		(shape input)
+		(at 219.71 209.55 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c4265453-de81-43fc-899c-d45b781f9e48")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 227.11 209.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8216,6 +8442,54 @@
 		(uuid "e389d080-d798-40f9-aab6-25cf8e314885")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 177.4758 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "VBAT_RAW"
+		(shape input)
+		(at 172.72 231.14 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e4676204-e97d-4f2b-a42f-b2e227aa0404")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 172.72 218.9624 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "VBAT_RAW"
+		(shape input)
+		(at 227.33 237.49 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ec176f53-0623-40b5-9c9a-4867b1ed79ff")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 215.1524 237.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8794,7 +9068,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-various:MAX17048")
-		(at 246.38 215.9 0)
+		(at 248.92 215.9 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8805,7 +9079,7 @@
 		(fields_autoplaced yes)
 		(uuid "0e86e231-9aac-4df1-a9bc-ec5b7c5c4a70")
 		(property "Reference" "U4"
-			(at 246.38 201.93 0)
+			(at 248.92 201.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8815,7 +9089,7 @@
 			)
 		)
 		(property "Value" "MAX17048"
-			(at 246.38 204.47 0)
+			(at 248.92 204.47 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8825,7 +9099,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP0.7x1.3mm"
-			(at 236.855 226.06 0)
+			(at 239.395 226.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8836,7 +9110,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheets.maximintegrated.com/en/ds/MAX17048-MAX17049.pdf"
-			(at 236.855 226.06 0)
+			(at 239.395 226.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8847,7 +9121,7 @@
 			)
 		)
 		(property "Description" "Fuel gauge chip with integrated current sensing resistor"
-			(at 246.38 215.9 0)
+			(at 248.92 215.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9054,6 +9328,85 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 170.18 209.55 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1602d8ed-514a-450a-8cf3-f84ee553611a")
+		(property "Reference" "#PWR062"
+			(at 166.37 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 173.99 209.55 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.635 0.635)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 170.18 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 170.18 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 170.18 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a14776da-0026-4b75-9b03-6009be362517")
+		)
+		(instances
+			(project "GBAKicad"
+				(path "/67931b9d-c20d-49c6-9fd4-41734abbfdea"
+					(reference "#PWR062")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 85.09 127 270)
 		(unit 1)
@@ -9215,6 +9568,85 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
+		(at 187.96 217.17 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1aea3781-d5df-41e6-87d7-e86c1305236c")
+		(property "Reference" "#PWR058"
+			(at 191.77 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 184.15 217.17 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.635 0.635)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 187.96 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 187.96 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 187.96 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f4696b52-afcf-4429-9769-8b1bf58ee3a8")
+		)
+		(instances
+			(project "GBAKicad"
+				(path "/67931b9d-c20d-49c6-9fd4-41734abbfdea"
+					(reference "#PWR058")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
 		(at 317.5 158.75 90)
 		(unit 1)
 		(body_style 1)
@@ -9286,6 +9718,85 @@
 			(project "GBAKicad"
 				(path "/67931b9d-c20d-49c6-9fd4-41734abbfdea"
 					(reference "#PWR043")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 224.79 217.17 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1f3f2359-7f71-4a59-9d66-19e8141acf4a")
+		(property "Reference" "R14"
+			(at 224.79 219.456 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1.2k"
+			(at 224.79 217.17 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 224.79 215.392 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 224.79 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 224.79 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "0467a3ca-3796-4d98-a1fa-b9d6088f3711")
+		)
+		(pin "1"
+			(uuid "04a1e259-fbcb-4b98-b1ce-f0724aac7dc0")
+		)
+		(instances
+			(project "GBAKicad"
+				(path "/67931b9d-c20d-49c6-9fd4-41734abbfdea"
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -9771,6 +10282,85 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 231.14 214.63 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3f4ea1b3-55ff-450c-95b0-d23a9bcd0745")
+		(property "Reference" "#PWR054"
+			(at 227.33 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 234.95 214.63 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.635 0.635)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 231.14 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 231.14 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 231.14 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ceedb1f6-54ca-47d1-b0b7-fa8f546a880d")
+		)
+		(instances
+			(project "GBAKicad"
+				(path "/67931b9d-c20d-49c6-9fd4-41734abbfdea"
+					(reference "#PWR054")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 60.96 133.35 0)
 		(unit 1)
@@ -9925,6 +10515,85 @@
 			(project "GBAKicad"
 				(path "/67931b9d-c20d-49c6-9fd4-41734abbfdea"
 					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 196.85 209.55 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "48b12b00-d96b-456f-bd6b-6f946ac49183")
+		(property "Reference" "#PWR056"
+			(at 200.66 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 193.04 209.55 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.635 0.635)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 196.85 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 196.85 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0e54ce5e-c682-4acd-adb9-c342a980312b")
+		)
+		(instances
+			(project "GBAKicad"
+				(path "/67931b9d-c20d-49c6-9fd4-41734abbfdea"
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -10960,6 +11629,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 194.31 214.63 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6f6f500a-149c-4b43-8d3a-619118df1f83")
+		(property "Reference" "R16"
+			(at 194.056 212.598 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 194.31 214.63 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 194.31 216.408 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 194.31 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 194.31 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "1601c051-754f-44cb-9987-4d4300c9f65e")
+		)
+		(pin "1"
+			(uuid "9f61abc5-d61c-4ca2-a35d-15ab3928e118")
+		)
+		(instances
+			(project "GBAKicad"
+				(path "/67931b9d-c20d-49c6-9fd4-41734abbfdea"
+					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 195.58 71.12 180)
 		(unit 1)
@@ -11612,6 +12360,162 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 156.21 223.52 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7d3c2577-0141-4193-a918-58e082dd1157")
+		(property "Reference" "#PWR063"
+			(at 156.21 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 156.21 228.6 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 156.21 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 156.21 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 156.21 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "88f1fc6b-48f1-45c4-9e0c-a933e2a5c57d")
+		)
+		(instances
+			(project "GBAKicad"
+				(path "/67931b9d-c20d-49c6-9fd4-41734abbfdea"
+					(reference "#PWR063")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 172.72 242.57 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7e3a654f-7f81-4487-baee-1681daaa9ce3")
+		(property "Reference" "#PWR064"
+			(at 172.72 248.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 172.72 247.65 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 172.72 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 172.72 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a77c0551-7327-4d61-92da-275bbd54e06a")
+		)
+		(instances
+			(project "GBAKicad"
+				(path "/67931b9d-c20d-49c6-9fd4-41734abbfdea"
+					(reference "#PWR064")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 269.24 146.05 270)
 		(unit 1)
 		(body_style 1)
@@ -12249,7 +13153,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPDT")
-		(at 208.28 240.03 0)
+		(at 232.41 237.49 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12260,7 +13164,7 @@
 		(fields_autoplaced yes)
 		(uuid "961298b2-1910-482c-bbf2-a2ff92947ff5")
 		(property "Reference" "SW11"
-			(at 208.28 231.14 0)
+			(at 232.41 228.6 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12270,7 +13174,7 @@
 			)
 		)
 		(property "Value" "SW_SPDT"
-			(at 208.28 233.68 0)
+			(at 232.41 231.14 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12280,7 +13184,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 208.28 240.03 0)
+			(at 232.41 237.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12291,7 +13195,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 208.28 247.65 0)
+			(at 232.41 245.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12302,7 +13206,7 @@
 			)
 		)
 		(property "Description" "Switch, single pole double throw"
-			(at 208.28 240.03 0)
+			(at 232.41 237.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12325,6 +13229,160 @@
 			(project "GBAKicad"
 				(path "/67931b9d-c20d-49c6-9fd4-41734abbfdea"
 					(reference "SW11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 207.01 228.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "986410b7-18da-4c32-b174-d476c06f3d10")
+		(property "Reference" "#PWR060"
+			(at 207.01 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 203.708 230.632 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 207.01 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 207.01 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 207.01 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6939b060-7d47-45be-a7a2-b9e01ce02daa")
+		)
+		(instances
+			(project "GBAKicad"
+				(path "/67931b9d-c20d-49c6-9fd4-41734abbfdea"
+					(reference "#PWR060")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 209.55 228.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "98ac3539-0189-40e8-b217-bffecc8b36b2")
+		(property "Reference" "#PWR059"
+			(at 209.55 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 212.598 230.632 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 209.55 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 209.55 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 209.55 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ce69776e-c3fd-4849-ba6a-e4181217489f")
+		)
+		(instances
+			(project "GBAKicad"
+				(path "/67931b9d-c20d-49c6-9fd4-41734abbfdea"
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -12495,6 +13553,85 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 229.87 217.17 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9ab5d193-e895-42fc-a950-70e23ec8af5f")
+		(property "Reference" "#PWR055"
+			(at 236.22 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 233.68 217.1699 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 229.87 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 229.87 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 229.87 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4797dc54-6021-461f-b77b-d6d981ed2886")
+		)
+		(instances
+			(project "GBAKicad"
+				(path "/67931b9d-c20d-49c6-9fd4-41734abbfdea"
+					(reference "#PWR055")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 130.81 166.37 270)
 		(unit 1)
@@ -12653,6 +13790,85 @@
 			(project "GBAKicad"
 				(path "/67931b9d-c20d-49c6-9fd4-41734abbfdea"
 					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 142.24 214.63 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9c45c8c8-af1e-40ac-9e3d-faff07668baf")
+		(property "Reference" "#PWR061"
+			(at 146.05 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 138.43 214.63 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.635 0.635)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 142.24 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 142.24 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 142.24 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "aae325ce-76d2-4826-9246-881f1bc4556b")
+		)
+		(instances
+			(project "GBAKicad"
+				(path "/67931b9d-c20d-49c6-9fd4-41734abbfdea"
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -13210,6 +14426,85 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+		(at 194.31 217.17 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b0c61239-63e4-49d3-85c8-e8fcb69bc70c")
+		(property "Reference" "R17"
+			(at 194.31 219.456 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 194.31 217.17 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 194.31 218.948 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 194.31 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 194.31 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "27165104-44c5-44a9-a58e-bbb1bb3ba002")
+		)
+		(pin "1"
+			(uuid "6107f3ae-0a0e-47f3-bcba-86c9abdb0f65")
+		)
+		(instances
+			(project "GBAKicad"
+				(path "/67931b9d-c20d-49c6-9fd4-41734abbfdea"
+					(reference "R17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 85.09 154.94 0)
 		(unit 1)
 		(body_style 1)
@@ -13370,7 +14665,7 @@
 	)
 	(symbol
 		(lib_id "Regulator_Linear:XC6220B331MR")
-		(at 172.72 213.36 0)
+		(at 156.21 212.09 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13381,7 +14676,7 @@
 		(fields_autoplaced yes)
 		(uuid "c4a15e59-9152-472e-a14c-8b1a2c773073")
 		(property "Reference" "U2"
-			(at 172.72 203.2 0)
+			(at 156.21 201.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13391,7 +14686,7 @@
 			)
 		)
 		(property "Value" "XC6220B331MR"
-			(at 172.72 205.74 0)
+			(at 156.21 204.47 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13401,7 +14696,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
-			(at 172.72 213.36 0)
+			(at 156.21 212.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13412,7 +14707,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.torexsemi.com/file/xc6220/XC6220.pdf"
-			(at 191.77 238.76 0)
+			(at 175.26 237.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13423,7 +14718,7 @@
 			)
 		)
 		(property "Description" "1A, Low Drop-out Voltage Regulator, Fixed Output 3.3V, SOT-23-5"
-			(at 172.72 213.36 0)
+			(at 156.21 212.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14894,6 +16189,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 224.79 214.63 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e741b5fd-5de9-4b9a-bf71-4f0b52eb515a")
+		(property "Reference" "R15"
+			(at 224.79 212.598 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 224.79 214.63 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 224.79 212.852 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 224.79 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 224.79 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "b5aacd6f-2546-4885-8cfd-f8675e300807")
+		)
+		(pin "1"
+			(uuid "43386321-9fc9-4294-8f8c-0404ed9f62c8")
+		)
+		(instances
+			(project "GBAKicad"
+				(path "/67931b9d-c20d-49c6-9fd4-41734abbfdea"
+					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 269.24 153.67 270)
 		(unit 1)
@@ -15286,6 +16660,85 @@
 			(project "GBAKicad"
 				(path "/67931b9d-c20d-49c6-9fd4-41734abbfdea"
 					(reference "SW5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 187.96 214.63 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ed288bca-0841-442f-a4dd-1f8215509f4a")
+		(property "Reference" "#PWR057"
+			(at 191.77 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 184.15 214.63 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.635 0.635)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 187.96 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 187.96 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 187.96 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4ec95f55-1fcf-45c7-bf8c-e69781e017b4")
+		)
+		(instances
+			(project "GBAKicad"
+				(path "/67931b9d-c20d-49c6-9fd4-41734abbfdea"
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
