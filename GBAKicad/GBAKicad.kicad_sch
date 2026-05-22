@@ -11212,7 +11212,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 222.25 244.602 90)
 			(hide yes)
 			(show_name no)
@@ -11846,7 +11846,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 84.582 185.42 90)
 			(hide yes)
 			(show_name no)
@@ -11926,7 +11926,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 304.8 94.488 90)
 			(hide yes)
 			(show_name no)
@@ -12401,7 +12401,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 36.322 146.05 90)
 			(hide yes)
 			(show_name no)
@@ -12560,7 +12560,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 304.8 76.708 90)
 			(hide yes)
 			(show_name no)
@@ -13037,7 +13037,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 127.762 185.42 90)
 			(hide yes)
 			(show_name no)
@@ -13516,7 +13516,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 127.762 146.05 90)
 			(hide yes)
 			(show_name no)
@@ -13911,7 +13911,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 84.582 146.05 90)
 			(hide yes)
 			(show_name no)
@@ -14716,7 +14716,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 389.89 178.562 90)
 			(hide yes)
 			(show_name no)
@@ -14880,7 +14880,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 106.172 146.05 90)
 			(hide yes)
 			(show_name no)
@@ -15196,7 +15196,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 106.172 185.42 90)
 			(hide yes)
 			(show_name no)
@@ -15434,7 +15434,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles"
 			(at 381 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -16311,7 +16311,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 36.322 185.42 90)
 			(hide yes)
 			(show_name no)
@@ -16554,7 +16554,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 60.452 146.05 90)
 			(hide yes)
 			(show_name no)
@@ -17190,7 +17190,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
 			(at 361.95 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -17826,7 +17826,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 60.452 185.42 90)
 			(hide yes)
 			(show_name no)
@@ -19510,7 +19510,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Card:microSD_HC_Hirose_DM3AT-SF-PEJM5"
 			(at 387.35 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -20224,7 +20224,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 222.25 242.062 90)
 			(hide yes)
 			(show_name no)
@@ -21973,7 +21973,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
 			(at 102.87 54.61 0)
 			(hide yes)
 			(show_name no)
