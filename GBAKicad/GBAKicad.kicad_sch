@@ -7851,7 +7851,7 @@
 			)
 		)
 	)
-	(global_label "BTN_Sys"
+	(global_label "BTN_SYS"
 		(shape input)
 		(at 55.88 67.31 0)
 		(fields_autoplaced yes)
@@ -7863,7 +7863,7 @@
 		)
 		(uuid "5020e95f-0d5e-492b-aec4-c7134043b027")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 66.6061 67.31 0)
+			(at 66.9085 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
