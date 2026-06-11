@@ -5490,16 +5490,16 @@
 		(uuid "e7fe35f0-0318-4af7-987e-3c5f9ed3f325")
 	)
 	(junction
+		(at 172.72 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "00026ad2-14ae-48f6-8d66-0664ada817b7")
+	)
+	(junction
 		(at 222.25 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0c1dde9a-0235-4779-9aa5-1728e9c32384")
-	)
-	(junction
-		(at 172.72 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0f123010-effe-4472-84bc-c05a66b7a978")
 	)
 	(junction
 		(at 143.51 152.4)
@@ -5538,6 +5538,12 @@
 		(uuid "29f29040-5429-4b5f-ba66-95dda41edc92")
 	)
 	(junction
+		(at 172.72 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2b252b2e-6676-4a6a-a9a6-333e3783abf1")
+	)
+	(junction
 		(at 250.19 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5550,10 +5556,22 @@
 		(uuid "2cffe4e0-8f88-4e78-994d-7a1ef78da156")
 	)
 	(junction
+		(at 172.72 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2e1f319d-9ec1-4302-9542-8f4bb9f04698")
+	)
+	(junction
 		(at 250.19 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2f76b885-43c2-43e4-9591-9ad90af9f3ec")
+	)
+	(junction
+		(at 80.01 175.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "300120b8-057e-49c9-9f32-2beca9b0c06f")
 	)
 	(junction
 		(at 114.3 134.62)
@@ -5572,18 +5590,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "36391d1c-7bd4-4b30-9ad7-6ad0154ef17b")
-	)
-	(junction
-		(at 172.72 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "36ddfc42-713e-4c6b-9aeb-6bd7dcee550b")
-	)
-	(junction
-		(at 83.82 156.21)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "37b38933-2188-4b6d-98e6-45d320047254")
 	)
 	(junction
 		(at 222.25 63.5)
@@ -5670,6 +5676,12 @@
 		(uuid "83529e9c-8e49-4b4b-9fd1-a965c45f2d7e")
 	)
 	(junction
+		(at 172.72 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "94706ba6-65af-4392-aed9-c46711b93ecb")
+	)
+	(junction
 		(at 250.19 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5712,22 +5724,10 @@
 		(uuid "bd121c60-cb8d-41ef-9046-7754c071520c")
 	)
 	(junction
-		(at 83.82 175.26)
+		(at 83.82 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c2f12c10-7157-45a9-97e3-1a4229bdc96c")
-	)
-	(junction
-		(at 172.72 55.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c30b4c88-2509-4490-9da3-92875ea6aad0")
-	)
-	(junction
-		(at 172.72 66.04)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ce0a6bcb-1be4-4b63-a852-a6bc0d5020fa")
+		(uuid "cf55096f-4c4c-445a-a372-3e1039c9242c")
 	)
 	(junction
 		(at 143.51 139.7)
@@ -5989,6 +5989,16 @@
 	)
 	(wire
 		(pts
+			(xy 172.72 71.12) (xy 172.72 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f6c134f-dbe5-4830-9733-52c0c08027d9")
+	)
+	(wire
+		(pts
 			(xy 83.82 134.62) (xy 83.82 135.89)
 		)
 		(stroke
@@ -6089,13 +6099,13 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 175.26) (xy 74.93 175.26)
+			(xy 161.29 66.04) (xy 172.72 66.04)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2e1342af-9783-43f8-9857-887e21e07ceb")
+		(uuid "2be82b6a-57c3-48e3-9282-6b65d274db1b")
 	)
 	(wire
 		(pts
@@ -6176,6 +6186,16 @@
 			(type default)
 		)
 		(uuid "3d590014-d3a8-4e41-be8f-8a48a610ed11")
+	)
+	(wire
+		(pts
+			(xy 83.82 134.62) (xy 80.01 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d6b918d-c9a4-4724-a296-ecb7d7be0467")
 	)
 	(wire
 		(pts
@@ -6369,7 +6389,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 33.02) (xy 172.72 55.88)
+			(xy 172.72 33.02) (xy 172.72 54.61)
 		)
 		(stroke
 			(width 0)
@@ -6396,6 +6416,16 @@
 			(type default)
 		)
 		(uuid "611c16b3-8b89-4f4e-86c5-ea96855be1b9")
+	)
+	(wire
+		(pts
+			(xy 181.61 71.12) (xy 172.72 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61418a93-0358-4f69-9c69-dd7868a6f0e7")
 	)
 	(wire
 		(pts
@@ -6426,16 +6456,6 @@
 			(type default)
 		)
 		(uuid "64840656-d7f3-4bee-ac6d-8ff95f61a939")
-	)
-	(wire
-		(pts
-			(xy 161.29 66.04) (xy 172.72 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "67fbc474-d403-4be5-9ddc-07a11442b378")
 	)
 	(wire
 		(pts
@@ -6499,17 +6519,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 71.12) (xy 172.72 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6f87fb9f-1532-421d-8090-8940353051b4")
-	)
-	(wire
-		(pts
-			(xy 83.82 171.45) (xy 83.82 175.26)
+			(xy 80.01 171.45) (xy 80.01 175.26)
 		)
 		(stroke
 			(width 0)
@@ -6559,6 +6569,16 @@
 	)
 	(wire
 		(pts
+			(xy 172.72 54.61) (xy 172.72 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7337a14d-85ff-4a52-b321-35fe53e051ac")
+	)
+	(wire
+		(pts
 			(xy 226.06 123.19) (xy 228.6 123.19)
 		)
 		(stroke
@@ -6576,6 +6596,16 @@
 			(type default)
 		)
 		(uuid "75cf2b0e-5578-4562-abc0-9a8f6ff294a0")
+	)
+	(wire
+		(pts
+			(xy 172.72 71.12) (xy 172.72 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78814bf8-fa70-4938-b8d7-ff0ff590c646")
 	)
 	(wire
 		(pts
@@ -6829,7 +6859,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 156.21) (xy 83.82 163.83)
+			(xy 80.01 134.62) (xy 80.01 163.83)
 		)
 		(stroke
 			(width 0)
@@ -6989,16 +7019,6 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 71.12) (xy 172.72 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b705a147-75e5-4f89-8b77-31b46148b595")
-	)
-	(wire
-		(pts
 			(xy 17.78 30.48) (xy 27.94 30.48)
 		)
 		(stroke
@@ -7026,6 +7046,26 @@
 			(type default)
 		)
 		(uuid "b89741c9-98cb-4206-ba64-372646521d81")
+	)
+	(wire
+		(pts
+			(xy 80.01 175.26) (xy 114.3 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc2b0466-449c-456b-8032-d0a9ea54018f")
+	)
+	(wire
+		(pts
+			(xy 80.01 175.26) (xy 74.93 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd22b5a1-92b3-46ae-81c0-f56c91e7f385")
 	)
 	(wire
 		(pts
@@ -7089,7 +7129,17 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 55.88) (xy 172.72 55.88)
+			(xy 161.29 54.61) (xy 161.29 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c464ea11-baf0-4346-87b0-c14730ebb330")
+	)
+	(wire
+		(pts
+			(xy 161.29 54.61) (xy 172.72 54.61)
 		)
 		(stroke
 			(width 0)
@@ -7136,16 +7186,6 @@
 			(type default)
 		)
 		(uuid "ca9ef103-7448-4343-9adf-512d8a440281")
-	)
-	(wire
-		(pts
-			(xy 114.3 175.26) (xy 83.82 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cb530303-2a6a-4e93-83aa-40ac89949f3b")
 	)
 	(wire
 		(pts
@@ -7276,16 +7316,6 @@
 			(type default)
 		)
 		(uuid "e06bbf23-82cb-417a-b34d-0538b5ba9d09")
-	)
-	(wire
-		(pts
-			(xy 172.72 66.04) (xy 172.72 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e10bccbd-df1b-41e1-a8d7-df9eecd29732")
 	)
 	(wire
 		(pts
@@ -8133,7 +8163,7 @@
 			)
 		)
 	)
-	(global_label "BAT_CHECK"
+	(global_label "BATT_CHECK"
 		(shape input)
 		(at 25.4 52.07 180)
 		(fields_autoplaced yes)
@@ -8145,7 +8175,7 @@
 		)
 		(uuid "79988698-02f4-4f98-a509-a7ed0cd0996b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 11.8315 52.07 0)
+			(at 10.8639 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8325,7 +8355,7 @@
 			)
 		)
 	)
-	(global_label "BTN_X"
+	(global_label "BTN_Y"
 		(shape input)
 		(at 260.35 74.93 0)
 		(fields_autoplaced yes)
@@ -8337,7 +8367,7 @@
 		)
 		(uuid "b79fa5d9-ae2c-4e7f-ac2e-329326ae7167")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 269.0804 74.93 0)
+			(at 268.9595 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8903,7 +8933,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 31.75 121.158 90)
 			(hide yes)
 			(show_name no)
@@ -9366,7 +9396,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "BTN_Y"
 			(at 255.27 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9376,7 +9406,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "custom_footprints:SW_PUSH_8mm_H5mm_custom"
 			(at 255.27 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -9617,7 +9647,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 92.202 139.7 90)
 			(hide yes)
 			(show_name no)
@@ -9857,7 +9887,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 141.732 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -10018,7 +10048,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
 			(at 161.29 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -10173,7 +10203,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "custom_footprints:SW_PUSH_8mm_H5mm_custom"
 			(at 81.28 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -10255,7 +10285,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
 			(at 162.56 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -10615,7 +10645,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 167.132 134.62 90)
 			(hide yes)
 			(show_name no)
@@ -10920,7 +10950,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "BTN_RIGHT"
 			(at 227.33 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10930,7 +10960,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "custom_footprints:SW_PUSH_8mm_H5mm_custom"
 			(at 227.33 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -11010,7 +11040,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom Footprints:SOT-23-6L_TCP"
+		(property "Footprint" "custom_footprints:SOT-23-6L_TCP"
 			(at 58.42 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -11262,7 +11292,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
 			(at 269.24 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -11329,7 +11359,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "BTN_DOWN"
 			(at 227.33 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11339,7 +11369,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "custom_footprints:SW_PUSH_8mm_H5mm_custom"
 			(at 227.33 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -11580,7 +11610,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_SPDT"
+		(property "Value" "SW_PWR"
 			(at 130.81 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11590,7 +11620,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical"
 			(at 130.81 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -11740,7 +11770,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "BTN_SELECT"
 			(at 255.27 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11750,7 +11780,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "custom_footprints:SW_PUSH_8mm_H5mm_custom"
 			(at 255.27 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -12134,7 +12164,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "BTN_L"
 			(at 227.33 22.86 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12144,7 +12174,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "custom_footprints:TS-1224VW"
 			(at 227.33 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -12178,10 +12208,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "2cd3ecbe-4af5-4b2b-867f-25722efb4c6a")
+			(uuid "2cd3ecbe-4af5-4b2b-867f-25722efb4c6b")
 		)
 		(pin "1"
-			(uuid "39246004-7af2-4271-a5a4-bcfd4de22219")
+			(uuid "39246004-7af2-4271-a5a4-bcfd4de2221a")
 		)
 		(instances
 			(project "GBAKicad"
@@ -12312,7 +12342,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 81.28 64.008 90)
 			(hide yes)
 			(show_name no)
@@ -12394,7 +12424,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 170.18 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -12509,7 +12539,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 232.41 124.968 90)
 			(hide yes)
 			(show_name no)
@@ -13025,7 +13055,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 141.732 147.32 90)
 			(hide yes)
 			(show_name no)
@@ -13186,7 +13216,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 125.222 163.83 90)
 			(hide yes)
 			(show_name no)
@@ -13236,7 +13266,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 83.82 167.64 0)
+		(at 80.01 167.64 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13246,7 +13276,7 @@
 		(dnp no)
 		(uuid "92607452-9597-421b-b580-2ca012880df1")
 		(property "Reference" "C8"
-			(at 79.756 167.64 90)
+			(at 75.946 167.64 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13256,7 +13286,7 @@
 			)
 		)
 		(property "Value" "100uF"
-			(at 77.216 167.64 90)
+			(at 73.406 167.64 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13266,7 +13296,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 84.7852 171.45 0)
+			(at 80.9752 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13277,7 +13307,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 83.82 167.64 0)
+			(at 80.01 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13288,7 +13318,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 83.82 167.64 0)
+			(at 80.01 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13346,7 +13376,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 161.29 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -13428,7 +13458,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 82.042 139.7 90)
 			(hide yes)
 			(show_name no)
@@ -13498,7 +13528,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "BTN_UP"
 			(at 227.33 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13508,7 +13538,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "custom_footprints:SW_PUSH_8mm_H5mm_custom"
 			(at 227.33 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -13542,10 +13572,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "2cd3ecbe-4af5-4b2b-867f-25722efb4c6a")
+			(uuid "2cd3ecbe-4af5-4b2b-867f-25722efb4c6c")
 		)
 		(pin "1"
-			(uuid "39246004-7af2-4271-a5a4-bcfd4de22219")
+			(uuid "39246004-7af2-4271-a5a4-bcfd4de2221b")
 		)
 		(instances
 			(project "GBAKicad"
@@ -13589,7 +13619,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 187.452 67.31 90)
 			(hide yes)
 			(show_name no)
@@ -13671,7 +13701,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 167.132 148.59 90)
 			(hide yes)
 			(show_name no)
@@ -13831,7 +13861,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 73.152 139.7 90)
 			(hide yes)
 			(show_name no)
@@ -13913,7 +13943,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_ZH_S2B-ZR-SM4A-TF_1x02-1MP_P1.50mm_Horizontal"
 			(at 167.64 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -13993,7 +14023,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "custom_footprints:OLED128x32_1x04_P2.54mm_socket"
 			(at 245.11 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -14069,7 +14099,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "BTN_B"
 			(at 255.27 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14079,7 +14109,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "custom_footprints:SW_PUSH_8mm_H5mm_custom"
 			(at 255.27 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -14444,7 +14474,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 25.4 124.46 0)
+		(at 25.4 124.46 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14454,7 +14484,7 @@
 		(dnp no)
 		(uuid "b5faffb3-affc-4698-89e3-d285d62266a3")
 		(property "Reference" "C10"
-			(at 21.336 124.46 90)
+			(at 29.464 124.46 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14464,7 +14494,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 18.796 124.46 90)
+			(at 32.004 124.46 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14474,7 +14504,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 26.3652 128.27 0)
+			(at 24.4348 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14699,7 +14729,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "BTN_LEFT"
 			(at 227.33 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14709,7 +14739,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "custom_footprints:SW_PUSH_8mm_H5mm_custom"
 			(at 227.33 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -14743,10 +14773,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "2cd3ecbe-4af5-4b2b-867f-25722efb4c6a")
+			(uuid "2cd3ecbe-4af5-4b2b-867f-25722efb4c6d")
 		)
 		(pin "1"
-			(uuid "39246004-7af2-4271-a5a4-bcfd4de22219")
+			(uuid "39246004-7af2-4271-a5a4-bcfd4de2221c")
 		)
 		(instances
 			(project "GBAKicad"
@@ -14858,7 +14888,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "BTN_R"
 			(at 255.27 22.86 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14868,7 +14898,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "custom_footprints:TS-1224VW"
 			(at 255.27 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -14950,7 +14980,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 195.072 67.31 90)
 			(hide yes)
 			(show_name no)
@@ -15108,7 +15138,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 82.55 55.118 90)
 			(hide yes)
 			(show_name no)
@@ -15178,7 +15208,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "BTN_START"
 			(at 227.33 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15188,7 +15218,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "custom_footprints:SW_PUSH_8mm_H5mm_custom"
 			(at 227.33 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -15440,7 +15470,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 195.072 77.47 90)
 			(hide yes)
 			(show_name no)
@@ -15520,7 +15550,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "custom_footprints:SW_SPST_TS-1088-xR020"
 			(at 92.71 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -15600,7 +15630,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_TS-1088-xR020"
 			(at 86.36 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -15840,7 +15870,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 232.41 122.428 90)
 			(hide yes)
 			(show_name no)
@@ -15910,7 +15940,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "BTN_A"
 			(at 255.27 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15920,7 +15950,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "custom_footprints:SW_PUSH_8mm_H5mm_custom"
 			(at 255.27 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -16068,7 +16098,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "BTN_X"
 			(at 255.27 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16078,7 +16108,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "custom_footprints:SW_PUSH_8mm_H5mm_custom"
 			(at 255.27 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -16317,7 +16347,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
 			(at 255.27 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -16733,7 +16763,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 179.832 67.31 90)
 			(hide yes)
 			(show_name no)
